@@ -21,7 +21,7 @@
         ${code2.date}</br>
         ${code1.value} 
         ${code2.value}<br>
-        ${ratex}
+        ${ratex} ${code1.code}
         </br>
         <a href="back"><button>back</button></a><br/>
     </body>
